@@ -6,13 +6,14 @@
   --cor-destaque: #c92bfc;
 }
 
-body 
+body {
+font-family: "Chakra Petch", sans-serif;
+}
 h1,
 h2,
 h5 {
   color: var(--cor-secundaria);
 font-weight: 700;  
-font-family: "Chakra Petch", sans-serif;
 }
 
 footer a {
